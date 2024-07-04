@@ -97,5 +97,8 @@ public void readDataFromDb() throws IOException {
 	m.put("San Account is validated",Integer.parseInt(split3[2]));
 	
 	
+	System.out.println("s");
+	
+	
 }
 }
